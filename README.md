@@ -1,5 +1,1 @@
-num = float(input("Digite um numero: "))
-if num %2 == 0:
-    print("Par")
-else:
-    print("Impar")
+Este codigo verifica se um numero digitado pelo usuario é par ou impar
